@@ -28,8 +28,8 @@ public class Main
      * Prints a 1-line greeting based on the name given
      */
    public static void printGreeting (String name){
-    	System.out.print("hello ");
-    	System.out.println(name + "!");
+    	System.out.print("Hello ");
+    	System.out.println(name);
     }
     
 }
